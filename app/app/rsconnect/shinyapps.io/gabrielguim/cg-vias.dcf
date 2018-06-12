@@ -1,0 +1,12 @@
+name: cg-vias
+title: cg-vias
+username:
+account: gabrielguim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 359374
+bundleId: 1424092
+url: https://gabrielguim.shinyapps.io/cg-vias/
+when: 1528766416.12509
+asMultiple: FALSE
+asStatic: FALSE
